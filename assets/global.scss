@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Manrope', sans-serif;
+
+}
+
+h1,h2,h3{
+    font-family: 'Playfair', serif; }
+
+    a {
+        text-decoration: none;
+        color: #000000;
+   
+      &:visited{
+        color: inherit;
+      }
+  
+   
+    }
+    button{
+      background: #000000;
+      padding: 10px;
+      border: none;
+      font-size: 18px;
+    font-family: 'Manrope', sans-serif;
+    color: white;
+    font-weight: 500;
+    width: 250px;
+    margin:  15px auto;
+
+    a{
+      color: white;
+    }
+  }
